@@ -260,3 +260,5 @@ defaults:
       comments: # true
       share: false
       related: false
+      aside:
+        toc: true # 사이드 메뉴 활성화
