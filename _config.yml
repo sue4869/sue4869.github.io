@@ -256,7 +256,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: article
+      layout: single
       comments: # true
       share: false
       related: false
