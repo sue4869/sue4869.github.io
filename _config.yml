@@ -20,7 +20,7 @@ title                    : "SUMIN's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "sumin"
-description              : "질문하고 발전하는 좋은 개발자를 "
+description              : "질문하고 발전하는 좋은 개발자가 되기 위해 노력하겠습니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Yu su min"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "어제보다 더 발전된 개발자가 되기 "
   location         : "South Korea"
   email            :
   links:
