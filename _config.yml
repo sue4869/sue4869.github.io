@@ -262,3 +262,14 @@ defaults:
       related: false
       aside:
         toc: true # 사이드 메뉴 활성화
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false  
